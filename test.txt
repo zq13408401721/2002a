@@ -1,1 +1,11 @@
-hello
+git 的使用步骤
+
+1. 拉取项目  git clone xxx.git
+
+//提交本地数据
+
+1. git add .(文件名字  xxx.txt text.java)  //把修改的文件或添加的文件 打标记
+
+2. git commit -m  "提交的描述"   //把修改的文件添加到本地仓库
+
+3. git push    //把本地仓库同步到服务器
